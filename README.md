@@ -1,1 +1,4 @@
-# jun17
+sample readme 
+repository creation
+
+hello
